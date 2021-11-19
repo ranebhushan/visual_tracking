@@ -1,3 +1,5 @@
 # Object Tracking using Arm Mounted Camera
 
-This is repository of course project for RBE501 - Robot Dynamics at Worcester Polytechnic Institute
+Course Project for RBE501 - Robot Dynamics (Fall 2021)
+
+Master of Science in Robotics Engineering at Worcester Polytechnic Institute
