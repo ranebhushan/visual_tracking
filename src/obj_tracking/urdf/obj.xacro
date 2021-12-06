@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<robot name="object" xmlns:xacro="http://www.ros.org/wiki/xacro">
+	  <xacro:macro name="box_inertial" params="x y z mass">
+    <inertial>
+      <mass value="${mass}" />
+      <origin xyz="0 0 0" />
+      <inertia ixx="${0.0833333 * mass * (y*y + z*z)}" ixy="0.0" ixz="0.0" 
+        iyy="${0.0833333 * mass * (x*x + z*z)}" iyz="0.0" 
+        izz="${0.0833333 * mass * (x*x + y*y)}" />
+    </inertial>
+  </xacro:macro>
+  <xacro:include filename="$(find obj_tracking)/urdf/materials.xacro"/>
+ <link name="Object">
+  <visual>
+   <geometry>
+    <box size="0.2 0.2 0.2"/>
+   </geometry>
+   <origin rpy = "0 0 0" xyz= "0 0 0"/>
+  </visual>
+    <collision>
+   <geometry>
+    <box size="0.2 0.2 0.2"/>
+   </geometry>
+   <origin rpy = "0 0 0" xyz= "0 0 0"/>
+  </collision>
+  <xacro:box_inertial x="0.2" y="0.2" z="0.2" mass="0.1"/>
+ </link>
+    <gazebo reference="Object">
+    <material>Gazebo/Blue</material>
+  </gazebo> 
+  </robot>
