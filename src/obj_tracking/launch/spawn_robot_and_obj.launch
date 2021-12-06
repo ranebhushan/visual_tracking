@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+<include file="$(find kortex_gazebo)/launch/spawn_kortex_robot.launch"/>
+<param name="object_description" command="$(find xacro)/xacro '$(find obj_tracking)/urdf/obj.xacro'" />
+<node name="urdf_spawner_object" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen" args="-urdf -model object -param object_description -x 3"/>
+</launch>
