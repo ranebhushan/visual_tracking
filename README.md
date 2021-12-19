@@ -50,7 +50,6 @@ Once the simulation environment is active, launch the object tracking control no
 ```
 rosrun obj_tracking node_obj_tracking.py
 ```
-
 Now, the robot will start tracking the object.
 
-You can move the object by displacing it within the frame of the camera, and then the robot will start following the object.
+You can move the object by displacing it within the frame of the camera, and then robot will start following the object.
