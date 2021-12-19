@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/34753789/146660906-a69beaf6-68b3-4423-
 
 ### Dependencies
 - ROS Distro : Noetic v1.15.13
-- OS : Ubuntu 20.04
+- OS : Ubuntu 20.04 LTS
 
 ### Usage Guidelines
 
