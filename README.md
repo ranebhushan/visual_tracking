@@ -9,3 +9,6 @@ Master of Science in Robotics Engineering at Worcester Polytechnic Institute
 - Gaurang Manoj Salvi
 - Rutwik Rajesh Bonde
 - Yash Rajendra Patil
+
+https://github.com/ranebhushan/rbe501_project/blob/47a97144a468962b927f6edb4d10f0ff3f5b5551/docs/robot_simulation.mov
+
