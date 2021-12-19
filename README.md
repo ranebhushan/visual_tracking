@@ -12,7 +12,7 @@ Master of Science in Robotics Engineering at Worcester Polytechnic Institute
 
 ## Simulation
 
-https://user-images.githubusercontent.com/34753789/146660347-52cc2bac-a6a6-4151-ab33-855ae760a66f.mov
+https://user-images.githubusercontent.com/34753789/146660906-a69beaf6-68b3-4423-bd20-78fc39d483c7.mov
 
 ## Project Description
 
