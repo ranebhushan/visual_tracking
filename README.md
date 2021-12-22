@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/34753789/146660906-a69beaf6-68b3-4423-
 - To run this project, you will need to clone this repository in your local project folder using the following command:
 
     ```
-    git clone https://github.com/ranebhushan/rbe501_project.git
+    git clone https://github.com/ranebhushan/visual_tracking.git
     ```
 
 - Copy the contents of `/ros` folder of this repository to `/src` of your ROS workspace.
