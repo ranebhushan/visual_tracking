@@ -2,13 +2,13 @@
 
 Course Project for RBE501 - Robot Dynamics (Fall 2021)
 
-Master of Science in Robotics Engineering at Worcester Polytechnic Institute
+Master of Science in Robotics Engineering at [Worcester Polytechnic Institute](https://www.wpi.edu/)
 
 ### Team Members
-- Bhushan Ashok Rane
-- Gaurang Manoj Salvi
-- Rutwik Rajesh Bonde
-- Yash Rajendra Patil
+- [Bhushan Ashok Rane](https://github.com/ranebhushan)
+- [Gaurang Manoj Salvi](https://github.com/gaurangsalvi)
+- [Rutwik Rajesh Bonde](https://github.com/Rubo12345)
+- [Yash Rajendra Patil](https://github.com/patilyashr)
 
 ## Simulation
 
@@ -17,8 +17,8 @@ https://user-images.githubusercontent.com/34753789/146660906-a69beaf6-68b3-4423-
 ## Project Description
 
 ### Dependencies
-- ROS Distro : Noetic v1.15.13
-- OS : Ubuntu 20.04 LTS
+- ROS Distro : [Noetic v1.15.13](http://wiki.ros.org/noetic)
+- OS : [Ubuntu 20.04 LTS](https://releases.ubuntu.com/20.04/)
 
 ### Usage Guidelines
 
